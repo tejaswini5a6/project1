@@ -1,0 +1,57 @@
+{
+  "details":{
+  "image":"3.png",
+  "name":"Teja",
+  "Phno":"+919951824199",
+  "email":"puppydolly99@gmail.com",
+  "address":"ramapuram-colany poranki vijayawada krishna AP"
+},
+"career":{
+  "info":"To pursue a challenging carrer and to be a part of progressive organisation that gives a scope to enhance my knowledge and utilizing my skills"
+
+},
+
+"education":[{
+  "qualification":"B.Tech",
+  "Institute":"MIC college",
+  "year":"2016-2020",
+  "percentage":"85%"
+},
+{
+"qualification":"Intermediate",
+"Institute":"Sri chaithanya",
+"year":"2014-2016",
+"percentage":"94%"
+},
+{
+  "qualification":"SSC",
+  "Institute":"krishnaveni school",
+  "year":"2014",
+  "percentage":"9.7"
+}
+],
+"skills":[{
+  "title":"Programming languages",
+  "info":["c,c++,java,r,python"]
+},
+{
+  "title":"Databases",
+  "info":["oracle,sql,mysql,Tinydb"]
+},
+{
+  "title":"Operating systems",
+  "info":["windows,linux,ubuntu,Dos"]
+}
+],
+"Achievements":[
+  {
+    "title":"prize",
+  "info":"awarded as best coder"
+
+},
+{
+  "title":"sports",
+"info":"awarded as best player"
+}
+]
+}

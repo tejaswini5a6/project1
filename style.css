@@ -1,0 +1,150 @@
+.main{
+  border: 3px solid blue;
+  padding: 2%;
+  display: flex;
+  flex-direction: row;
+  background-color:skyblue;
+}
+h2,h4
+{
+  color:orange;
+}
+a{
+  color:black;
+  font-size: 20px;
+  word-wrap: break-word;
+}
+.left{
+  border: 2px solid red;
+  padding: 2%;
+  margin: 2%;
+  width: 30%;
+  text-align: center;
+  font-size: 20px;
+  background-color: violet;
+}
+#name{
+  color: blue;
+  font-size: 30px;
+  text-align: center;
+}
+.left img{
+  width: 100%;
+border-radius: 100%;
+border: 2px solid yellow;
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+.right{
+  border: 2px solid red;
+  padding: 2%;
+  margin: 2%;
+  width: 70%;
+  background-color: cyan;
+}
+@media only screen and (min-width: 0px) and (max-width: 480px)
+{
+  .main{
+    border: 2px solid blue;
+    padding: 2%;
+    display: flex;
+    flex-direction:column;
+    background-color: indigo;
+    width: 100%;
+  }
+  h2,h4
+  {
+    color:orange;
+  }
+  a{
+    color:black;
+    font-size: 20px;
+    word-wrap: break-word;
+  }
+  .left{
+    border: 2px solid red;
+    padding: 2%;
+    margin: 2%;
+    width: 90%;
+    text-align: center;
+    font-size: 20px;
+    background-color: violet;
+  }
+  #name{
+    color: blue;
+    font-size: 30px;
+    text-align: center;
+  }
+  .table1{
+    width=90%;
+    overflow-x: auto;
+  }
+  .left img{
+    width: 100%;
+  border-radius: 100%;
+  border: 2px solid yellow;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  }
+  .right{
+    border: 2px solid violet;
+    padding: 2%;
+    margin: 2%;
+    width: 90%;
+    background-color: cyan;
+  }
+}
+@media only screen and (min-width: 481px) and (max-width: 768px)
+{
+  .main{
+    border: 2px solid blue;
+    padding: 2%;
+    display: flex;
+    flex-direction:row;
+    background-color: indigo;
+  }
+  h2,h4
+  {
+    color:orange;
+  }
+  a{
+    color:black;
+    font-size: 20px;
+    word-wrap: break-word;
+  }
+  .left{
+    border: 2px solid red;
+    padding: 2%;
+    margin: 2%;
+    width: 40%;
+    text-align: center;
+    font-size: 20px;
+    background-color: violet;
+  }
+  #name{
+    color: blue;
+    font-size: 30px;
+    text-align: center;
+  }
+  .table1{
+    width=90%;
+    overflow-x: auto;
+  }
+  .left img{
+    width: 100%;
+  border-radius: 100%;
+  border: 2px solid yellow;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  }
+  .right{
+    border: 2px solid violet;
+    padding: 2%;
+    margin: 2%;
+    width: 40%;
+    background-color: cyan;
+  }
+}
